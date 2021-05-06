@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, Welcome To My Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I'am [Adi](https://www.adiyansahcode.id/), Web Developer and Backend Developer from bekasi, <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" width="13"/> indonesia
 
 <!--
 **adiyansahcode/adiyansahcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
