@@ -46,7 +46,7 @@ I'm Adi, a Web Developer and Backend Developer from bekasi, <img src="assets/ind
   &nbsp;
   <img alt="nodejs" width="25px" src="assets/nodejs-icon.svg" />
   &nbsp;
-  <img alt="laravel" height="25px" src="assets/php-icon.svg" />
+  <img alt="php" height="25px" src="assets/php-icon.svg" />
   &nbsp;
   <a href="https://laravel.com/" target="_blank">
     <img alt="laravel" width="25px" src="assets/laravel-icon-new.svg" />
@@ -85,15 +85,15 @@ I'm Adi, a Web Developer and Backend Developer from bekasi, <img src="assets/ind
     <img alt="mysql" height="35px" src="assets/mysql.svg" />
   </a>
   &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="mysql" height="25px" src="assets/mariadb.svg" />
+  <a href="https://mariadb.org/" target="_blank">
+    <img alt="mariadb" height="25px" src="assets/mariadb.svg" />
   </a>
   &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="mysql" height="25px" src="assets/postgresql-horizontal.svg" />
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="postgresql" height="25px" src="assets/postgresql-horizontal.svg" />
   </a>
   &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="mysql" height="25px" src="assets/redis.svg" />
+  <a href="https://redis.io/" target="_blank">
+    <img alt="redis" height="25px" src="assets/redis.svg" />
   </a>
 </p>
