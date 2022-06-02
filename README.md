@@ -1,4 +1,4 @@
-## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome To My Profile.
+## Hi! Welcome To My Profile.
 
 <a href="https://github.com/adiyansahcode/" target="_blank">
   <img alt="Adiyansah Website" width="25px" src="assets/world-wide-web.svg" />
